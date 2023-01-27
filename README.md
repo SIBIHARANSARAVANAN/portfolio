@@ -1,2 +1,2 @@
-# manoritha.github.io
+# Sibiharan.github.io
 Web hosting of my site.
