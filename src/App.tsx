@@ -4,7 +4,8 @@ import { About } from './components/About';
 import { Projects } from './components/Projects';
 import { Experience } from './components/Experience';
 import { TechStack } from './components/TechStack';
-import { Contact } from './components/Contact';
+import Contact from "./components/Contact";
+
 import { NeuralBackground } from './components/NeuralBackground';
 
 export default function App() {
